@@ -46,9 +46,9 @@ Then, you can use `dplus` object to track any events as you want;
 
 ####note
 
-*the first parameter is the name of event (NOT NULL)
-*the second parameter is the properties you want to sent with this event (NULL)
-*the third parameter is a callback, it's called when the track is done;
+-the first parameter is the name of event (NOT NULL)
+-the second parameter is the properties you want to sent with this event (NULL)
+-the third parameter is a callback, it's called when the track is done;
 
 
 
