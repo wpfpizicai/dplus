@@ -1,6 +1,6 @@
 {
   "name": "dplus",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nodejs sdk for dplus",
   "main": "lib/index.js",
   "scripts": {
