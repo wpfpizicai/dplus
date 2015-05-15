@@ -1,0 +1,27 @@
+{
+  "name": "dplus",
+  "version": "0.0.1",
+  "description": "nodejs sdk for dplus",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wpfpizicai/dplus.git"
+  },
+  "keywords": [
+    "dplus",
+    "track",
+    "data"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+  },
+  "homepage": "https://github.com/wpfpizicai/dplus.git",
+  "author": "wpfpizicai",
+  "email" : "tjuwpf@163.com",
+  "license": "MIT"
+}
