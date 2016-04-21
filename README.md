@@ -51,7 +51,6 @@ Then, you can use `dplus` object to track any events as you want;
 + the third parameter is a callback, it's called when the track is done;
 
 
-
 ## License
 
 http://en.wikipedia.org/wiki/MIT_License[MIT License]
